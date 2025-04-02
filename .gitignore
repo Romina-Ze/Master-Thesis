@@ -1,0 +1,12 @@
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.h5
+*.pkl
+*.zip
+*.npz
+*.sav
+__pycache__/
+.vscode/
+.venv/
