@@ -21,8 +21,9 @@ The goal is to uncover **systemic biomarkers and aging patterns** that may contr
 ##  Methods
 
 - **Data Preprocessing**: MinMax normalization, PC1 removal, z-score filtering
+- **Organs age gap**: LASSO regression 
 - **PLS Regression**: Linking protein profiles with organ features
-- **Statistical Testing**: t-tests between aging markers and ICD10-coded diagnoses
+
 
 - Python (v3.12)
 - Jupyter Notebook
